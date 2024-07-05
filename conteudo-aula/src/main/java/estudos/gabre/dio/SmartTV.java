@@ -15,7 +15,7 @@ public class SmartTV{
         System.out.println("TV is turning off.");
     }    
 
-    //Increase and decrease TV volume.
+    //Increase and decrease TV audio volume.
     public void increaseVolume(){
         volume++;
         System.out.println("Current volume: " + volume);
